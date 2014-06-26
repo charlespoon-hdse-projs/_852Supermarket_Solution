@@ -172,4 +172,7 @@ UpgradeLog*.htm
 
 # Microsoft Fakes
 FakesAssemblies/
+<<<<<<< HEAD
 __RELEASE_BUILDS__
+=======
+>>>>>>> ecfb07b245adb27a4aa68ae0ec3d311a80082e41
